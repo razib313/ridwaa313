@@ -1,1 +1,6 @@
-
+mkdir server
+cd server
+npm init -y
+npm install express
+touch index.js
+cd ..
